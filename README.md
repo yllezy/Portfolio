@@ -17,7 +17,6 @@ About
 - This section shares my story: balancing logic, design, and artistry while exploring the possibilities of technology.  
 
 Skills
-A blend of two worlds:
 - Professional Skills — I’ve progressed from the basics of HTML and CSS to building projects in Java and Python, steadily growing my ability to turn concepts into functional applications.
 - Artistic Skills — expressing creativity through makeup artistry, where detail, color, and design meet imagination.  
 
